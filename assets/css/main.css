@@ -18,10 +18,11 @@
 .row:after{
   clear: both;
 }
+
 /*ESTILO*/
 div{
   background-color: rgb(74, 161, 194);
-  border: 5px solid rgb(180, 180, 180);
+  border: 10px solid rgb(255, 255, 255);
 }
 /*FIN DE ESTILO*/
 
