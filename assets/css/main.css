@@ -24,6 +24,10 @@ div{
   background-color: rgb(74, 161, 194);
   border: 10px solid rgb(255, 255, 255);
 }
+
+.height{
+  height: 600px;
+}
 /*FIN DE ESTILO*/
 
 /*medidas en porcentaje de cada columna*/
